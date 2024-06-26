@@ -1,0 +1,22 @@
+.header {
+  width: 100%;
+  background-color: blueviolet;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header_form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header_form_input {
+  width: 200px;
+  padding: 5px;
+}
+
+.header_form_button {
+  width: 100px;
+  padding: 5px;
+}
